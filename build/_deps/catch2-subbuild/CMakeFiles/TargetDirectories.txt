@@ -1,0 +1,3 @@
+/home/jan/Documents/C/42/push_swap42_test/build/_deps/catch2-subbuild/CMakeFiles/rebuild_cache.dir
+/home/jan/Documents/C/42/push_swap42_test/build/_deps/catch2-subbuild/CMakeFiles/edit_cache.dir
+/home/jan/Documents/C/42/push_swap42_test/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir
